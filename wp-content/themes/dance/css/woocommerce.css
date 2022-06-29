@@ -1,0 +1,39 @@
+
+/* CSS Document */
+@import "/wp-content/themes/dance/css/woocommerce/woocommerce-default.css";
+@import "/wp-content/themes/dance/css/woocommerce/type1-fashion.css";
+@import "/wp-content/themes/dance/css/woocommerce/type2-jewel.css";
+@import "/wp-content/themes/dance/css/woocommerce/type3-business.css";
+@import "/wp-content/themes/dance/css/woocommerce/type4-hosting.css";
+@import "/wp-content/themes/dance/css/woocommerce/type5-spa.css";
+@import "/wp-content/themes/dance/css/woocommerce/type6-wedding.css";
+@import "/wp-content/themes/dance/css/woocommerce/type7-university.css";
+@import "/wp-content/themes/dance/css/woocommerce/type8-insurance.css";
+@import "/wp-content/themes/dance/css/woocommerce/type9-plumber.css";
+@import "/wp-content/themes/dance/css/woocommerce/type10-medical.css";
+@import "/wp-content/themes/dance/css/woocommerce/type11-model.css";
+@import "/wp-content/themes/dance/css/woocommerce/type12-attorney.css";
+@import "/wp-content/themes/dance/css/woocommerce/type13-architecture.css";
+@import "/wp-content/themes/dance/css/woocommerce/type14-fitness.css";
+@import "/wp-content/themes/dance/css/woocommerce/type15-hotel.css";
+@import "/wp-content/themes/dance/css/woocommerce/type16-photography.css";
+@import "/wp-content/themes/dance/css/woocommerce/type17-restaurant.css";
+@import "/wp-content/themes/dance/css/woocommerce/type18-event.css";
+@import "/wp-content/themes/dance/css/woocommerce/type19-nightclub.css";
+@import "/wp-content/themes/dance/css/woocommerce/type20-yoga.css";
+@import "/wp-content/themes/dance/css/woocommerce/type21-styleshop.css";
+
+@font-face {
+	font-family:star;
+	src:url(/wp-content/themes/dance/fonts/star.eot);
+	src:url(/wp-content/themes/dance/fonts/star.eot#iefix) format("embedded-opentype"), url(/wp-content/themes/dance/fonts/star.woff) format("woff"), url(/wp-content/themes/dance/fonts/star.ttf) format("truetype"), url(/wp-content/themes/dance/fonts/star.svg#star) format("svg");
+	font-weight:400;
+	font-style:normal
+}
+@font-face {
+	font-family:WooCommerce;
+	src:url(/wp-content/themes/dance/fonts/WooCommerce.eot);
+	src:url(/wp-content/themes/dance/fonts/WooCommerce.eot#iefix) format("embedded-opentype"), url(/wp-content/themes/dance/fonts/WooCommerce.woff) format("woff"), url(/wp-content/themes/dance/fonts/WooCommerce.ttf) format("truetype"), url(/wp-content/themes/dance/fonts/WooCommerce.svg#WooCommerce) format("svg");
+	font-weight:400;
+	font-style:normal
+}

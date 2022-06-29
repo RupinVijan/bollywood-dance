@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bharatha &#8211; My Blog</title>
+	<atom:link href="/tag/bharatha/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>My WordPress Blog</description>
+	<lastBuildDate>Mon, 11 Sep 2017 05:03:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/08/img.png</url>
+	<title>bharatha &#8211; My Blog</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Classical Odissi performance</title>
+		<link>/classical-odissi-performance/</link>
+					<comments>/classical-odissi-performance/#respond</comments>
+		
+		<dc:creator><![CDATA[yjt7o]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2015 06:32:50 +0000</pubDate>
+				<category><![CDATA[Classical Eastern]]></category>
+		<category><![CDATA[bharatha]]></category>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/testdata/?p=106</guid>
+
+					<description><![CDATA[Vestibulum a lacus at lectus tincidunt molestie et non metus. Sed ultrices ligula a urna ornare lobortis. In bibendum fringilla metus eget suscipit. Vivamus bibendum pretium nulla at ornare. Quisque egestas rhoncus mauris. Phasellus quam turpis, tristique vitae felis id, molestie luctus ex. Fusce in quam sed ex faucibus venenatis ut non mi. Pellentesque habitant [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Vestibulum a lacus at lectus tincidunt molestie et non metus. Sed ultrices ligula a urna ornare lobortis. In bibendum fringilla metus eget suscipit. Vivamus bibendum pretium nulla at ornare. Quisque egestas rhoncus mauris. Phasellus quam turpis, tristique vitae felis id, molestie luctus ex. Fusce in quam sed ex faucibus venenatis ut non mi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum efficitur egestas ultrices. Fusce sollicitudin leo sit amet sem pellentesque, volutpat efficitur lectus tristique.</p>
+<p>Pellentesque rhoncus suscipit eros, ut cursus nisl luctus vel. Integer cursus neque vel dapibus vestibulum. Proin volutpat, libero quis mollis eleifend, mauris sem sodales mi, vitae pellentesque ex nibh ut nibh. Nunc ac fermentum justo. Aenean faucibus egestas turpis eu elementum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/classical-odissi-performance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

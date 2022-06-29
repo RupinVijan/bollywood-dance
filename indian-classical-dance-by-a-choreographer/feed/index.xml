@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Indian Classical Dance by a choreographer	</title>
+	<atom:link href="/indian-classical-dance-by-a-choreographer/feed/" rel="self" type="application/rss+xml" />
+	<link>/indian-classical-dance-by-a-choreographer/</link>
+	<description>My WordPress Blog</description>
+	<lastBuildDate>Mon, 31 Jul 2017 10:14:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: ram		</title>
+		<link>/indian-classical-dance-by-a-choreographer/#comment-4</link>
+
+		<dc:creator><![CDATA[ram]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2017 05:11:02 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/testdata/?p=1#comment-4</guid>
+
+					<description><![CDATA[This is test comment from Designthemes!]]></description>
+			<content:encoded><![CDATA[<p>This is test comment from Designthemes!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mr WordPress		</title>
+		<link>/indian-classical-dance-by-a-choreographer/#comment-3</link>
+
+		<dc:creator><![CDATA[Mr WordPress]]></dc:creator>
+		<pubDate>Thu, 11 Jun 2015 09:56:35 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/testdata/?p=1#comment-3</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
