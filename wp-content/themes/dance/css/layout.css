@@ -79,7 +79,7 @@
 		.left-header #header-wrapper #logo a img { margin:0 auto; }
 		.left-header #logo { margin:35px 0px; text-align:center; width:100%; clear:both; }
 		.left-header.left-header-boxed #logo {  padding:40px 0 20px; margin:0px; text-align:center; }
-		#header-wrapper.light #main-menu ul.menu > li > a { color:#fff; }
+		#header-wrapper.light #main-menu ul.menu > li > a { color:#fff; margin:0px 10px; font-weight: bolder;}
 		
 		
 		/*----*****---- << 2.7. Overlay Header >> ----*****----*/
@@ -280,7 +280,7 @@
 		
 		/*----*****---- << 4.6. Menu Active Style >> ----*****----*/
 		.menu-wrapper { float:right; margin:0px 0px 0px 20px; }
-		#main-menu, #main-menu ul.menu { float:left; margin:0px; padding:0px; }
+		#main-menu, #main-menu ul.menu { float:left; margin:20px; padding:0px; }
 		#main-menu ul.menu li { float:left; display:inline; margin:0px; padding:0px; }
 		#main-menu > ul.menu > li > a { float:left; padding:0px 18px; line-height:100px; font-weight: 600; font-size:17px; text-transform: uppercase; }
 		
