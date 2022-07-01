@@ -1489,7 +1489,7 @@
 		.two-color-header .dt-menu-toggle { position:relative; z-index:1; }
 		.two-color-header .menu-icons-wrapper { z-index:1; }
 		
-		#main-menu { background:#ffffff; box-shadow:0px 0px 5px rgba(0, 0, 0, 0.1); }
+		#main-menu { background:#202020; box-shadow:0px 0px 5px rgba(0, 0, 0, 0.1); }
 		#main-menu ul.menu > li.menu-item-has-children:hover > a::after { content: none; }
 		
 		.overlay-header #main-menu { background:transparent; }
