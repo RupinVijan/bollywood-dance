@@ -1644,18 +1644,28 @@
 		.top-bar .text-with-icon .icon, .top-bar .text-with-icon .fa { font-size: 12px; margin: 0 3px 0 0; }
 		
 	}
-
+.pad-le{
+	padding-left:70px;
+}
+@media only screen and (max-width: 900px) {
+	.pad-le{
+		padding-left: 0px;;
+	}
+}
 
 .clients{
-	
+	/* background-image: url('../../../../images/clients.jpg'); */
+	background-image: url('https://images.pexels.com/photos/9629441/pexels-photo-9629441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+	background-repeat: no-repeat;
+	background-size: cover;
 	width:100%;
 }
 	.logogrid {
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-		grid-auto-rows: 75px;
-		grid-gap: 4rem;
-		padding:100px 0px;
+		grid-auto-rows: 60px;
+		grid-gap: 1rem;
+		padding:30px 0px;
 	  }
 	  .logogrid__item {
 		display: flex;
