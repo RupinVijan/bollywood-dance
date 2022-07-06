@@ -30,8 +30,8 @@
 	/*--------------------------------------------------------------
 	2.0 - Logo
 	--------------------------------------------------------------*/
-	#logo { display: flex; align-items: center; flex-grow: 1; }
-	#logo a { display:block; overflow:hidden; float:left; padding:0px; margin:0px; height: 55px; }
+	#logo { display: flex; align-items: center; flex-grow: 1;margin-top:-21px; }
+	#logo a { display:block; overflow:hidden; float:left; padding:0px; margin:0px;  }
 	#logo a img { display: block; height: inherit; filter:invert(1); width:120px;  overflow: hidden; }
 	#logo a .retina_logo { display:none; }
 	@media only screen and (max-width: 700px) {
@@ -286,7 +286,7 @@
 		.menu-wrapper { float:right; margin:0px 0px 0px 20px; }
 		#main-menu, #main-menu ul.menu { float:left; margin:0px; padding:0px; }
 		#main-menu ul.menu li { float:left; display:inline; margin:0px; padding:0px; }
-		#main-menu > ul.menu > li > a { float:left; padding:0px 18px; line-height:100px; font-weight: 600; font-size:17px; text-transform: uppercase; }
+		#main-menu > ul.menu > li > a { float:left; padding:0px 18px; line-height:100px; font-weight: 600; font-size:15px; text-transform: uppercase; }
 		
 		.menu-active-highlight-grey #main-menu ul.menu > li { padding:0px 20px; }
 		.menu-active-highlight-grey #main-menu ul.menu > li > a { padding:0px; position:relative; }
