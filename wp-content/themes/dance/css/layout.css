@@ -1696,3 +1696,9 @@
 		max-width: 1000px;
 		margin: auto;
 	  }
+	  .loc{
+		display: flex;
+    flex-direction: column;
+    height: 420px;
+    justify-content: space-between;
+	  }
