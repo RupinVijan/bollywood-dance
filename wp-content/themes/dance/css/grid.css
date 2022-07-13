@@ -20,7 +20,7 @@
 	.container.fill-container, .container.fill-stretch-row, .page-template-tpl-fullwidth .section-wrapper.fullwidth-section .container.fill-stretch-row { width:1200px; }
 	.page-template-tpl-fullwidth .vc_row.vc-default-row { margin-left:0px; }	
 	
-	#main { float:left; clear:both; width:100%; margin:0px; padding:0px; display:block; z-index: 2; margin-bottom: 520px; background: #fff; position: relative; }
+	#main { float:left; clear:both; width:100%; margin:0px; padding:0px; display:block; z-index: 2; margin-bottom: 120px; background: #fff; position: relative; }
 	
 	#primary { width:880px; margin:0px; padding:0px 0px 0px; float:left; position:relative; }
 	#primary.content-full-width { width:100%; }
@@ -206,7 +206,7 @@
 		.rs_margin_top_md-150.vc_row,
 		.rs_margin_top_md-150.wpb_column .vc_column-inner { margin-top: 150px !important; }
 		
-		#main { margin-bottom: 600px; }
+		#main { margin-bottom: 100px; }
 		
 	 }
 	  
