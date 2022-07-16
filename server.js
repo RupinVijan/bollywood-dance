@@ -14,6 +14,9 @@ app.get('/', (req, res) => {
 app.get('/login', (req, res) => {
     res.sendFile(path.join(pathname + "/login.html"));
 })
+app.get('/register', (req, res) => {
+    res.sendFile(path.join(pathname + "/register.html"));
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
