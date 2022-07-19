@@ -830,7 +830,7 @@
 	#footer .widget_text ul.dt-sc-sociable li a { border-color: transparent; background: rgba(255, 255, 255, .7); color: #000; font-size: 22px; }
 	#footer .widget_text ul.dt-sc-sociable li:hover a { background: #000; color: #fff; }
 		
-	.footer-copyright { float:left; margin:0px; padding: 0px 0px 30px; width:100%; clear:both; font-size: 16px; }
+	.footer-copyright { float:left; margin:0px; padding: 100px 0px 30px; width:100%; clear:both; font-size: 16px; }
 	.copyright-left { width:48%; float:left; margin:0px; padding:0px; }
 	.copyright-right { float:right; margin:0px; padding:0px; width:48%; text-align:right; }
 	
