@@ -1702,3 +1702,19 @@
     height: 420px;
     justify-content: space-between;
 	  }
+	  .contact-details{
+		height: 250px;
+		width:300px;
+		margin:15px;
+		padding: 10px;;
+	}
+	#follow-us{
+		  background-color: rgb(192, 176, 192);
+	  }
+	  #contact-content{
+		background: rgb(117, 117, 114);
+	  }
+	  #social-icons{
+		
+		margin-left:50px;
+	  }
