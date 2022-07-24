@@ -59,7 +59,7 @@
 	.dt-sc-image-caption.type3 .dt-sc-image-content p { padding: 0 50px; color: #fff; margin-bottom: 20px; }
 	.dt-sc-image-caption.type3 .dt-sc-image-content:after { position: absolute; content: ""; height: 200px; width: 100%; left: 0; bottom: 0; background: linear-gradient(to bottom, transparent 20%, rgba(0, 0, 0,1));
  background: -webkit-linear-gradient(to bottom, transparent 20%, rgba(0, 0, 0,1)); background: -moz-linear-gradient(to bottom, transparent 20%, rgba(0, 0, 0,1)); z-index: -9; }
-	.dt-sc-image-caption.type3 .dt-sc-image-title { margin-bottom:10px; }
+	.dt-sc-image-caption.type3 .dt-sc-image-title { margin-bottom:40px; }
 	
 	.dt-sc-image-caption.type3:hover .dt-sc-image-wrapper { transform: scale(1.05); -moz-transform: scale(1.05); -webkit-transform: scale(1.05); -ms-transform: scale(1.05); }
 	
